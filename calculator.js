@@ -17,3 +17,7 @@ function subtract(a, b) {
 function squareRoot(a) {
     return Math.sqrt(a);
 }
+
+function square(a) {
+    return a*a;
+}
